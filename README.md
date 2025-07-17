@@ -95,3 +95,12 @@ I believe that governments may want to consider making the scope/precision appro
 There are concerns that state actors themselves might want to use such tools for manipulation, but with such a level of distrust in government, the scope/precision approach should be seen as an insignificant risk compared to the general societal design. By increasing transparency and accountability in AI development, we can promote a more trustworthy and responsible AI ecosystem.
 
 Despite concerns that creating planning AI systems inherently carries certain societal risks, I argue that developing controllable planning systems with limited planning abilities at first may provide AI tools that enable a smoother societal transition. The limited planning capabilities provided by scope/precision have the potential to enhance productivity without triggering dramatic changes. Additionally, each tool requires specialized data that is processed to ensure consistency, which is distinct from general planning capabilities. In other words, the lack of general planning capabilities makes such a system as safe as current models. While there is a possibility that more advanced planning methods may emerge, similar risks are also associated with current state-of-the-art models.
+
+
+# FINAL REMARKS
+
+Thank you for taking the time to explore my first project on neural networks. I'm excited to share my ideas and experiments with you, and I welcome any feedback or discussions about my work.
+
+If you're interested in learning more or would like to chat about my projects, please don't hesitate to reach out. I'm always looking for new perspectives and collaborations, and I'm eager to share more of my ideas and research in the future.
+
+Feel free to contact me through telegram [@ExcogitatorWarrior](https://t.me/ExcogitatorWarrior).
